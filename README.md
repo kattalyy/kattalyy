@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning Python 👩‍💻
+I'm currently exploring Python, SQL, R and Data Science with a focus on analyzing and interpreting medical data 👩‍💻 
 
 <!--
 **kattalyy/kattalyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
